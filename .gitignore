@@ -10,3 +10,6 @@
 #DATABASES
 *.db
 *.sqlite3
+
+#celery
+*.pid
