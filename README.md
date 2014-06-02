@@ -20,7 +20,7 @@ Arrancar el servidor de redis y el worker de celery.
 # El servidor de redis
 $ redis-server
 # En una nueva tab, el worker de celery
-$ python manage.py celeryd worker -E
+$ python manage.py celeryd -E
 # Run Django
 $ python manage.py runserver
 ```
