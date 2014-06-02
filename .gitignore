@@ -1,4 +1,12 @@
+#PYTHON COMPILER
 *.py[cod]
+
+#MAC OS
 .DS_Store
-#pycharm
+
+#PYCHARM
 .idea/
+
+#DATABASES
+*.db
+*.sqlite3
